@@ -177,3 +177,43 @@ border: 15px solid rgba(255, 0, 0, 1);
 border-radius: 100%;
 padding: 48px;
 }
+#discount{
+   /* width: 1320px;  */
+    /* display: flex;
+    justify-content: center;
+    align-items: center; */
+    margin-bottom: 120px;
+}
+.function{
+  text-align: center;
+ 
+}
+.image-container{
+  position: relative;
+  display: inline-block;
+}
+.bottom-image{
+  position: relative;
+  width: 1320px;
+  height: auto;
+}
+.top-image{
+  position: absolute;
+  z-index: 20;
+  left: 10px;
+  bottom: 30px;
+  width: 674.82px;
+height: 577.96px;
+}
+.gift{
+  width: 1320px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.gallery{
+  max-width: 1320px;
+  gap: 24px;
+  flex-wrap: wrap;
+  margin-left: auto;
+  margin-right: auto;
+}
