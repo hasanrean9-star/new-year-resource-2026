@@ -157,6 +157,7 @@ margin-top: 48px;
     display: flex;
     justify-content: center;
     align-items: center;
+    margin-bottom: 120px;
 }
 .offer{
     display: flex;
@@ -164,4 +165,15 @@ margin-top: 48px;
     justify-content: center;
     align-items: center;
     /* background: rgba(255, 255, 255, 1); */
+}
+.offer-para{
+  color: rgba(7, 2, 17, 0.6);font-size: 20px;
+font-weight: 400;
+ margin-top: -28px;
+}
+.img-box{
+  box-sizing: border-box;
+border: 15px solid rgba(255, 0, 0, 1);
+border-radius: 100%;
+padding: 48px;
 }
